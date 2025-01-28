@@ -1,0 +1,483 @@
+:: StoryTitle
+Wiliam Wallace
+
+
+:: StoryData
+{
+  "ifid": "9C875BA5-BCC1-4260-9FF0-B07322598D28",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Menu",
+  "tag-colors": {
+    "backgrounds": "none"
+  },
+  "zoom": 1
+}
+
+
+:: A guiness and 2 shots.\  {"position":"1550,75","size":"100,100"}
+<p1>And the party begins.....
+
+Your friends go Partying ......
+
+You stay on the barstool drinking...cause you can´t dance.... :-)
+
+Waitress approaches you with a Tray.
+
+There´s a bottle of wine already opened and some wine already poured in the glass.
+You ask who is it from?
+
+She points at a beautiful</p1><strong> Lady in Red.</strong>
+
+<p2>[[You take the Drink]] </p2>or <p2>[[Reject the Drink]]</p2>
+
+
+:: A night to remember {"position":"1725,75","size":"100,100"}
+<p1>On Friday the <strong>13th </Strong>, Its´s your birthday...you just turned<span style = "color:red;"> <u>(text-style: "blink")[26 ]</u></span>and "living la vida loca".....
+The best way to celebrate is to party..
+You get in a taxi with  4  friends for a night out....
+
+A few moments later ......You arrive and enter the night club. 
+
+ Head straight to the bar and order Some drinks....</p1>
+ 
+<p2>[[A guiness and 2 shots. ]] or [[Whisky(Tango foxtrot)]]</p2>
+
+
+:: Click Play {"position":"1850,1000","size":"100,100"}
+<p1>on the telly
+the clown face appears again.......
+<div style="text-align: center;">
+<img src=https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif>
+</div>
+one friend rejected my friend request on facebook.....(jessica)
+and
+the other friend just was at the wrong place at the wrong time...(gwen)
+
+if you want to save one.... the other will die
+ but if you play the game and win both will survive if you lose both will die..
+ </p1>
+<p2> [[Save jess]]</p2> <p1>or</p1> <p2>[[Save gwen]]</p2>
+ 
+ <p1>or</p1> 
+ 
+ <p2>[[Play game]]</p2>
+
+
+:: Click play on the remote {"position":"1725,750","size":"100,100"}
+<div style="text-align: center;">
+<img src=https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif>
+</div>  <p1> 
+A Clown face appears....
+ "Hello friend.........I want to play a game......"
+ 
+ Two of your friends are locked in a gas chamber....
+ 
+ one stole grapes from tesco...(Miguel)
+ 
+ one stole apples from street vendor.....(Miles)
+ 
+ Who would you like to save......
+ 
+<p2> [[Save Miguel]]</p2><p1> or</p1> <p2>[[Save Miles]]</p2>
+ 
+ But if you play the Game you can save both... if you lose they both <strong>Die...</p1></strong>
+ 
+ <p2>[[Play the game]]</p2>
+
+
+:: Don´t drink the wine {"position":"1300,650","size":"100,100"}
+<p1>Wait on your friends to finish partying...
+Book a taxi and</p1><p2> [[go home]]</p2>
+
+
+:: Drink the wine anyways and wait on your friends.... {"position":"1700,250","size":"100,100"}
+<p1>
+Your Friends are partying hard....while your enjoying free wine..
+ A few minutes Later ..............
+ 
+ Miguel comes back parched.......<p> pours some wine and drinks.</p>
+<img src=https://media.tenor.com/ajUrB38rTHcAAAAC/drinking-w-ine.gif>
+
+ Miles and gwen come back from the disco... <p> gwen mixes the wine with a drink she already had....Miles drinks it instead...</p>
+<img src=https://media.tenor.com/-1wY3YtG_0MAAAAC/mixing-a-drink-gin-and-tonic.gif>
+
+ Jess comes back, her and gwen head to the bathroom together...
+they  come back a few minutes later and<p> both drink from the bottle...</p>
+
+ <img src=https://spoonuniversity.com/wp-content/uploads/sites/100/2015/02/keep-going.gif>
+ 
+ ...after that you order a taxi back home</p1> <p2>[[order taxi]]</p2>
+
+
+:: Game credits {"position":"2075,575","size":"100,100"}
+<p1>Writing, coding, & design: Tony Grace & Aaron Priede</p1>
+
+
+:: Grab key and open the door {"position":"1600,1050","size":"100,100"}
+<p1>You open the padlock and remove the chains from the door.....
+when you open the door ...........
+
+
+The 2 girls are behind a thick glass room, laying flat on a steel bed with both their limbs stretched by chains.....
+
+there´s a telly on a table with  "play me " sticker on the remote....
+</p1>
+<p2>[[Click Play]]</p2>
+
+<p1>or</p1>
+
+<p2>[[Try and set the Girls free]]
+</p2>
+
+
+:: Menu [backgrounds] {"position":"1950,200","size":"100,100"}
+<style>
+h1{
+margin: 0;
+text-shadow: 1px 3px 2px blue;}
+</style>
+
+<h1>A night to remember</h1> 
+
+   
+<p2>[[New game ->A night to remember]]</p2>
+
+<p2>[[Warning]]</p2>
+<p2>[[Game credits]]</p2>
+
+
+:: Open door {"position":"1750,1375","size":"100,100"}
+<p1>Outside there is the same taxi you came in......
+nobody´s inside....
+
+the keys are in the ignition.....
+
+there´s also a map where to find your friends......(if any survived)
+</p1>
+<p2>[[Start the engine and drive off ASAP]]</p2>
+
+<p1>or</p1>
+
+<p2>[[Run as far away as possible]]</p2>
+
+
+:: Play game {"position":"1500,1275","size":"100,100"}
+<p1>There´s a computer in the coner ........,
+
+Type in the numbers displayed......in time and the chains will set them free
+</p1>
+
+<p2>[[Start]]</p2>
+
+
+:: Play the game {"position":"1075,575","size":"100,100"}
+<div style="text-align: center;">
+<img src=https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif>
+      
+<p1>Clown face:" riddle me this...."
+
+" You are driving a bus and when you arrive at the 1st bus stop, 4 people get on, the next bus stop 10 people get on, next bus stop 7 get out, and 4 get on, and the next bus stop 6 get on but 8 get out......
+How old is the bus driver????</p1>
+</div>
+<p2>[[Reply]]</p2>
+
+
+:: Reject the Drink {"position":"1300,350","size":"100,100"}
+<p1>you wait for your friends to finsh partying...
+then.....
+</p1>
+<p2>[[go home]]</p2>
+
+
+:: Reply {"position":"1375,850","size":"100,100"}
+(set:$answer to(prompt:" How old is the bus driver?",""))
+ (if:$answer is "26")
+ [<div style="text-align: center;">
+<img src=https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif>
+</div>
+ <p1>"The key to the door is under the telly....."
+ 
+ <p2>[[Grab key and open the door]]</p2>
+]
+ 
+ 
+(else:)[Gas chamber fills up...Miguel and miles die
+<img src="https://thumbs.gfycat.com/SnarlingFormalAardwolf-size_restricted.gif">
+Clown face "The key to the door is under the telly....."
+ </p1>
+<p2> [[Grab key and open the door]]</p2<<
+ ]
+
+
+:: Run as far away as possible {"position":"1900,1525","size":"100,100"}
+<p1>Alert Garda
+Then go home and cry yourself to sleep.....
+
+You Survive....
+</p1>
+[<div style="text-align: center;">
+(text-style: "blink")[<h3 style="font-size: 100px">GAME OVER</h3>]
+</div>
+]
+
+
+
+
+
+
+
+
+
+
+																												
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                      [[is that it?]]
+
+
+:: Save Miguel {"position":"1825,875","size":"100,100"}
+Miles chamber fills up with Gas and he dies...
+
+The clown faced puppet appers again and says the key to the door is under the telly..
+
+[[Grab key and open the door]]
+
+
+:: Save Miles {"position":"1600,900","size":"100,100"}
+<p1>Miguels chamber fills up with gas and he dies....
+
+The clown faced puppet appers again and says the key to the door is under the telly..
+</p1>
+<p2>[[Grab key and open the door]]</p2>
+
+
+:: Save gwen {"position":"1900,1250","size":"100,100"}
+<p1>The machine rotates and splits jess up into pieces.....
+then....
+
+Clown face appears again and tells you the key is under the telly...
+
+you quickly get the key and head fo the exit
+</p1>
+<p2>[[Open door]]</p2>
+
+
+:: Save jess {"position":"1700,1225","size":"100,100"}
+<p1>The chain machine rotates and splits gwen up into pieces...
+then...
+
+Clown face appears again and tells you the key is under the telly...
+you quickly get the key and head fo the exit
+</p1>
+
+<p2>[[Open door]]</p2>
+
+
+:: Start {"position":"1025,725","size":"100,100"}
+(set:$answer to(prompt:"What´s the 10th number of this sequence 1, 2, 3, 5, 8, 13, 21, 34, 55.....?",""))
+(if:$answer is "89")[<div style="text-align: center;">
+<img src=https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif>
+<p1>"The essence of mathematics lies in its freedom"</p1>
+</div>
+]
+(else:)[<div style="text-align: center;">
+<img src="https://thumbs.gfycat.com/AncientHomelyAmericanratsnake-size_restricted.gif">
+<p1>"Mathematics is the door and the key to freedom"</p1>
+<img src="https://i.imgur.com/UG4us.gif">
+</div>
+]
+
+<p1>Clown face appears again and tells you the key is under the telly...
+you quickly get the key and head fo the exit</p1>
+<p2>[[Open door]]</p2>
+
+
+:: Start the engine and drive off ASAP {"position":"2000,1375","size":"100,100"}
+[<div style="text-align: center;">
+<p1>(FYI - there was a bomb underneath, that detonates if you start the car....:-)
+You <Strong>die</Strong></p1>
+
+<img src=https://media.tenor.com/DsZC3APfPqMAAAAM/explosion-boom.gif
+width="600" height="500">
+(text-style: "blink")[<h3 style="font-size: 100px">GAME OVER</h3>]
+
+Thanx for playing.....]
+</div>
+
+
+:: Sudenly u wake up [dark-room] {"position":"2250,600","size":"100,100"}
+<p1>Dizzy and with a headache 
+ 
+ You slightly open your eyes and there´s a lamp at the corner flashing on and off....
+ <div style="text-align:right;"><img src=https://media2.giphy.com/media/3QegDkfeLfRUA/200w.gif?cid=6c09b952t2gcetfif5swdme05jecxr1uxwa791r45eganmlk&ep=v1_gifs_search&rid=200w.gif&ct=g></div>
+ 
+ u ask urself where tf am i ?
+ 
+ none of your friends is around .......you call out to them...no one responds...
+ 
+ there an old telly with a (Play me)sticker on the remote.
+ </p1>
+<p2> [[Try to look for the exit]]</p2><p1>or</p1> <p2>[[Click play on the remote]]</p2>
+
+
+:: Try and set the Girls free {"position":"1400,1025","size":"100,100"}
+<p1>The chains are locked on a rotating machine......
+You can´t set the girls free... they are behind a thick glass and there´s no way in.....
+its unbreakable...
+Time starts ticking ........
+
+you have no option but to<p2> [[Click Play]]</p2> on the remote...</p1>
+
+
+:: Try to look for the exit {"position":"1450,700","size":"100,100"}
+<p1>the one window in the room..has iron bars, it can´t be opened....
+
+
+the only door you see is locked shut with a bog padlock and chain......
+
+
+You have no other option but to</p1><p2> [[Click play on the remote]]</p2>
+
+
+:: Untitled Passage {"position":"2700,400","size":"100,100"}
+
+
+
+:: Warning {"position":"1950,575","size":"100,100"}
+-<p1>Player death
+-Implied torture
+-References to murder
+-References to human death
+-Parental Guiadence(PG 18)
+</p1>
+
+
+:: Whisky(Tango foxtrot) {"position":"1800,400","size":"100,100"}
+<p1>And the party begins.....
+
+Your friends go Partying on the dance floor packed with a crowd ......
+
+You stay on the barstool drinking...cause you can´t dance.... :-)
+
+Waitress approaches you with a glass of wine on the Tray.
+You ask who is it from?
+
+She points at a beautiful<strong> Lady in Red</strong>.</p1>
+
+<p2>[[You take the Drink]]</p2> or <p2>[[Reject the Drink]]</p2>
+
+
+:: You follow her {"position":"1500,250","size":"100,100"}
+<p><p1>By the time you reach the door she gets in the taxi and disappears.
+You dont notice its the same taxi you came in.
+
+"Well that was odd !!" you say.</p>
+
+You go back in the club and <p2>[[Drink the wine anyways and wait on your friends....]]</p2>
+
+or
+
+You become suspicious, go back to the club and</p1><p2> [[Don´t drink the wine]]</p2>
+
+
+:: You take the Drink {"position":"1300,125","size":"100,100"}
+<p1>You take the drink and Approach the<strong> Lady in Red</strong>
+ with curiousity, you ask her?
+ 
+ Whats your name?
+ 
+ She says nothing and walks out.</p1>
+ 
+ <p2>[[You follow her]]</p2> or 
+<p2> [[Drink the wine anyways and wait on your friends....]]</p2>
+
+
+:: go home {"position":"2300,275","size":"100,100"}
+[<div style="text-align: center;">
+
+(text-style: "blink")[<h3 style="font-size: 100px">GAME OVER</h3>]
+</div>
+
+<p2>[[Try again->A night to remember]]</p2>
+]
+
+
+:: is that it? {"position":"1700,1550","size":"100,100"}
+<p1>No........
+
+
+when you are asleep you start having nightmares.........
+
+You try to wake up....but you wake up within the dream......
+
+head to the bathroom to wash your face..... you look in the mirror....
+<div style="text-align: center;">
+
+          <img src=https://giffiles.alphacoders.com/259/25930.gif>
+</div>
+
+before you know it...you are in another horror movie.........
+</p1>
+
+
+:: order taxi {"position":"1525,500","size":"100,100"}
+<p1>The  taxi  arrives..... ..you all get in.
+on the way, the 2 girls fall asleep.......
+
+then miles starts to fall asleep while on his phone...
+right next to him is Miguel and his still awake.... 
+
+and  before you know it, you fall asleep....
+</p1>
+<img src=https://media.tenor.com/pCoeeHV4W4oAAAAM/sleepy-tired.gif>
+-<p2>[[Sudenly u wake up]]</p2>
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.cdnfonts.com/css/eldergods-bb');
+@import url('https://fonts.cdnfonts.com/css/yummy-mummy');
+@import url('https://fonts.cdnfonts.com/css/kreeture');
+                
+                
+p1{font-size: 30px;font-family: 'yummy-mummy italic', sans-serif;}
+
+p2{font-size: 35px; text-shadow: 1px 3px 2px blue; }
+#pic1:{
+background-image: url("https://www.wearetbc.com/wp-content/uploads/2021/10/1.jpg")
+background-size: cover;
+filter:grayscale(100%);
+filter:brightness(10%);
+}
+#pic1:hover{
+filter: grayscale(0);}
+
+
+/*tw-story{background-image: url("https://www.wearetbc.com/wp-content/uploads/2021/10/1.jpg")}*/
+
+
+/*tw-story{background-image: url("https://media.tenor.com/MuMAbpdOluQAAAAC/flickering-light-jennifer-lawrence.gif")
+background-size: cover;
+}
+*/
+
+h1{font-family: 'ElderGods BB', sans-serif;
+color: red; font-size:120px;
+letter-spacing: 0.05em;
+test-shadow: blue;}
+h3 {
+ text-shadow: 3px 5px #ff0000;
+  color: rgb(255, 165, 0)
+ }
+  
+/* @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+  
+  tw-story{background-color: black;}
+p{font-family: 'Pangolin', cursive; color:red ; letter-spacing: 0.05em;
+font-size: 38px}
+h1{font-family: 'Pangolin', cursive; color:white;}
+*/
